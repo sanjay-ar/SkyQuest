@@ -14,6 +14,12 @@ Introducing SkyQuest – the React Flight Booking App! Get ready to embark on a 
   
 - **Streamlined Booking Process**: Enjoy a hassle-free booking experience with instant confirmation and easy entry of passenger details.
 
+## Screenshots and Demo
+
+<div align="center">
+  <img alt="Demo" src="./rest1.gif" />
+</div>
+
 ## How It Works
 
 SkyQuest leverages advanced web scraping techniques to fetch real-time flight information from top-flight booking sites. Say goodbye to juggling between multiple websites – we've got you covered!

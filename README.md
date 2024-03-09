@@ -55,6 +55,3 @@ We welcome contributions and feedback from developers and enthusiasts alike. Whe
 
 Excited about SkyQuest? Help us spread the word and share this exciting news with your network. Together, we're revolutionizing the way we book flights. Let's fly higher, together!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
